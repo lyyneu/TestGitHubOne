@@ -1,11 +1,3 @@
 Git is  a  distrivuted version control system
 Git is  free software distrivuted under the GPL.
-Git  has a mutable index called stage
-Git tracks change of files;
-My boss is very stupid;
-Great branch in git is very fast
-
-
-test vim
-wo shi ni papa
 
