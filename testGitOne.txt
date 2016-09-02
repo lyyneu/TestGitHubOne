@@ -3,3 +3,4 @@ Git is  free software distrivuted under the GPL.
 
 successful link with github.com
 test branch
+Greating a new branch is quich AND simple.
