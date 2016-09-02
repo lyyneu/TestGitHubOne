@@ -3,4 +3,8 @@ Git is  free software distrivuted under the GPL.
 
 successful link with github.com
 test branch
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick AND simple
+=======
+Greating a new branch is quich AND simple.
+>>>>>>> featureOne
